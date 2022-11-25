@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.AddImmo.resources
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.AddKlant.resources
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.Form1.resources
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.ImmoCatalogus.resources
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.Specifieke_Immo.resources
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.Specifiek_Klant.resources
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ImmoWEBProject\obj\Debug\net472\ImmoWEBProject.csproj.CoreCompileInputs.cache
